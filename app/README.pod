@@ -1,0 +1,15 @@
+=pod
+
+=encoding utf8
+
+=head2 Portal YAPC Brasil 2014
+
+Repositório referente aos esforços de construção do portal do evento nacional de Perl do Brasil.
+
+
+=head2 Copyright e Licença
+
+  2014 (c) Brasil Perl Mongers.
+
+=cut
+

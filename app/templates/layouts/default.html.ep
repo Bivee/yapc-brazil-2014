@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8">
+        <title>YAPC Brasil 2014 em Itapema-SC</title>
+
+        <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="../assets/js/html5shiv.js"></script>
+        <![endif]-->
+
+        <!-- Stylesheet --> 	
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<link  rel="stylesheet" href="css/font-awesome.css">
+        <!--[if IE 7]>
+        <link rel="stylesheet" href=".css/font-awesome-ie7.css">
+        <![endif]-->
+		<link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/style-responsive.css">
+        <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="all" />
+    </head>
+    
+    <body>
+		    
+            %= content
+		
+			<!-- JAVA SCRIPTS -->
+			<script src="js/jquery-2.1.0.min.js"></script>
+			<script src="js/modernizr.custom.js" type="text/javascript"></script> 
+			<script src="js/jquery.scrollto.js" type="text/javascript"></script>
+			<script src="js/waypoints.min.js" type="text/javascript"></script>
+			<script src="js/jquery.tweet.js" type="text/javascript"></script>
+			<script src="https://maps.googleapis.com/maps/api/js?sensor=false&extension=.js&output=embed" type="text/javascript"></script>
+			<script src="js/custom.js" type="text/javascript"></script>
+			<script src="js/bootstrap.js"></script>
+			<script src="js/jquery.fancybox.pack.js" type="text/javascript"></script>
+			<script src="js/jquery.fancybox-media.js?v=1.0.0" type="text/javascript"></script>
+			<script src="js/loop.min.js"></script>        
+    </body>
+</html>

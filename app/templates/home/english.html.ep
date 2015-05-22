@@ -1,0 +1,841 @@
+% layout 'default';
+% title 'YAPC Brazil 2014 in Itapema-SC';
+
+		<!-- HEADER HOME -->
+		<section id="home">
+			<div class="row centered">
+				<div class="content" style="max-width: 60%; min-width: 150px;background-image: url('../img/logo-label-en.png')"></div>
+			</div>
+			<div class="language-header language-item" >
+				<span class ="language-item-pt">
+                    <a  href="/" title="Vers&atilde;o em Portugu&ecirc;s">PT</a>
+                </span> | 
+                <span class ="language-item-en">
+                    <a class ="en" href="/en" title="English Version">EN</a>
+                </span>
+			</div>
+		</section>
+		<!-- END HOME -->
+		
+		<!-- NAVBAR -->
+		<div class="navbar navbar-fixed-top">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
+						<span class="sr-only">Menu</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a href="#" class="navbar-brand">
+						<h4 class="brand">YAPC::BRAZIL</h4>
+					</a>
+				</div>
+				<nav class="navbar-collapse collapse" id="main-nav" role="navigation">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="#home">HOME</a></li>
+						<li><a href="#about">EVENT</a></li>
+						<li><a href="#theme">THEME</a></li>
+						<li><a href="#team">TEAM</a></li>
+						<li><a href="#place">VENUE</a></li>
+						<li><a href="#tickets">REGISTER</a></li>
+						<li><a href="#info">+ INFO</a></li>
+						<li><a href="#sponsors">SPONSORS</a></li>
+						<li><a href="#contact">CONTACT</a></li>
+						<!-- li><a href="#interaction">INTERA&Ccedil;&Atilde;O</a></li -->
+					</ul>
+				</nav>
+			</div>
+		</div>
+		<!-- END NAVBAR -->
+        
+		<section class="slice color3">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8">
+						<h4>
+							YAPC :: Brazil will be in <strong>September 19 and 20</strong> and will be held in <strong>Hotel Enseada</strong> hall in Itapema-SC. Join us and be part of this amazing conference.
+						</h4>
+					</div>
+					<div class="col-md-4">
+						<a class="button" href="#tickets">Buy your ticket now</a>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+        <!-- ABOUT SECTION -->
+        <section id="about" class="slice color2">
+            <div class="container">
+                <div class="row">
+                    <div class="centered col-sm-12 col-md-12">
+                         <h2>Event</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="centered col-sm-12 col-md-12">
+                        <p class="subtitle">
+                            The biggest event of brazilian Perl developer's community now will be in Itapema-SC at Setember 19 and 20.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 col-md-6">
+                        <div class="box">
+                            <h4>"The Perl programming language has what is the most powerful and flexible on development/programming market"</h4>
+                            <br />
+                            <p>The event  takes place annually with speakes, workshops and discussions on a variety of issues involving Perl, programming language that has what is the most powerful and flexible on development/programming market.</p> 
+							<p>This year, YAPC::Brazil happens in Itapema-SC September 19 and 20 and again we will be seeking the assistance and presence of international speakers, and in 2013 the special guest came from Chicago: Joel Berger, Perl 4 Science's creator and Physic's PhD.</p>
+                            <p>O tema do evento para este ano &eacute; <strong>&quot;Desenvolvimento de software para gest&atilde;o p&uacute;blica&quot;</strong> e o conte&uacute;do envolve apresentar e discutir sistemas espec&iacute;ficos para auxiliar as prefeituras municipais do nosso pa&iacute;s.</p>
+                            <p>Vale salientar que <strong>este evento existe para reunir todos os amantes, entusiastas, usu&aacute;rios e curiosos da linguagem Perl de programa&ccedil;&atilde;o</strong>. Venha conferir o que h&aacute; de mais moderno e inovador em desenvolvimento de software na linguagem escolhida por esse grupo seleto de profissionais.</p>
+							<p>Com ra&iacute;zes nos grupos Perl Mongers do Brasil, a confer&ecirc;ncia celebra a linguagem Perl e sempre &eacute; absolutamente acess&iacute;vel a todos, independente do grau experi&ecirc;ncia com a linguagem ou habilidade com programa&ccedil;&atilde;o.</p>
+							<p>Venha conhecer a tecnologia que est&aacute; por tr&aacute;s de empresas como a <strong>Amazon</strong> e <strong>Booking.com</strong>, de portais como a da <strong>BBC</strong> e de <strong>blogs</strong> como o utilizado na candidatura de Barak Obama. No Brasil, temos os cases <strong>estantevirtual.com.br</strong> e <strong>leismunicipais.com.br</strong> que utilizam Perl em seu n&uacute;cleo do sistema.</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-6 hidden-xs">
+						<img alt="about_image" src="img/about/calendar-en.png" height="616" width="616" id="demo"/>                         
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- END ABOUT -->
+		
+		<!-- THEME SECTION -->
+		<section id="theme" class="slice color5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-3 col-md-3">
+                         <h2>Theme</h2>
+                    </div>
+                    <div class="centered col-sm-9 col-md-9">
+                         <p class="subtitle">"Desenvolvimento de software para gest&atilde;o p&uacute;blica"</p>
+						 <p>O conte&uacute;do deste ano envolve apresentar e discutir sistemas especificos para auxiliar as prefeituras municipais do nosso pa&iacute;s.</p>
+						 <p>As solu&ccedil;&otilde;es apresentadas, visam, portanto, abrangir todos os aspectos que contribuem com a gest&atilde;o p&uacute;blica: processos, metadados, automatiza&ccedil;&otilde;es, transpar&ecirc;ncia p&uacute;blica e afins.</p>
+                    </div>
+				</div>
+			</div>
+		</section>
+		<!-- END THEME -->
+		
+        <!-- TEAM SECTION -->
+        <section id="team" class="slice color6">
+            <div class="container">
+                <div class="row">
+                    <div class="centered col-sm-12 col-md-12">
+                         <h2>TEAM</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="centered col-sm-12 col-md-12">
+                        <p class="subtitle">Conhe&ccedil;a o nosso time dos sonhos que ficar&aacute; respons&aacute;vel pela condu&ccedil;&atilde;o das palestras do evento</p>
+                    </div>
+                </div>
+                <div class="row">
+					<div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="post">
+							<img alt="altname" src="img/team/blebe.jpg">
+                            <span class="subject">BLABOS DE BLEBE</span>
+                            <p class="description">Programmer</br></br></br>
+								<strong>PALESTRA: </strong> Desenvolvimento ultra ágil de aplicações web modernas
+							</p>
+							<br/></br>
+                            <span class="social">
+                                <a href="http://www.linkedin.com/in/blabos" target="_blank" class="social-network  linkedin"></a>
+								<a href="https://www.facebook.com/blabos.deblebe" target="_blank" class="social-network  facebook"></a>
+                            </span>
+                        </div>
+                    </div>		
+					<div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="post">
+							<img alt="altname" src="img/team/liz.jpg">
+                            <span class="subject">C&Iacute;CERO LIZ</span>
+                            <p class="description">CEO e co-fundador do LeisMunicipais. </br></br><br/>
+								<strong>PALESTRA: </strong>Case LeisMunicipais.com.br
+							</p>
+							</br></br>
+                            <span class="social">
+                                <a href="http://br.linkedin.com/pub/c%C3%ADcero-liz/13/83a/339" target="_blank" class="social-network  linkedin"></a>
+								<a href="https://www.facebook.com/ciceroliz" target="_blank" class="social-network  facebook"></a>
+                            </span>
+                        </div>
+                    </div>		
+					<div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="post">
+							<img alt="altname" src="img/team/vinci.jpg">
+                            <span class="subject">DANIEL VINCIGUERRA</span>
+                            <p class="description">Arquiteto de Solu&ccedil;&otilde;es Web e co-fundador da Bivee </br></br>
+								<strong>PALESTRA: </strong> Desenvolvimento Web com Mojolicious
+							</p>
+							</br></br>
+                            <span class="social">
+								<a href="http://br.linkedin.com/pub/daniel-vinciguerra/16/371/a14" target="_blank" class="social-network  linkedin"></a>
+								<a href="https://twitter.com/dvinciguerra" target="_blank" class="social-network  twitter"></a>
+								<a href="https://www.facebook.com/danvinciguerra" target="_blank" class="social-network  facebook"></a>
+                            </span>
+                        </div>
+                    </div>		
+					<div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="post">
+							<img alt="altname" src="img/team/cardim.jpg">
+                            <span class="subject">EDEN CARDIM</span>
+                            </br>
+                            <p class="description">Especialista de Sistemas Sênior – IBM</br></br><br/>
+								<strong>PALESTRA: </strong> A Magia do Camelo – Descobrindo a Linguagem Perl
+							</p>
+                            </br></br>
+                            <span class="social">
+                                <a href="https://www.linkedin.com/profile/view?id=16645054" target="_blank" class="social-network  linkedin"></a>
+								<!-- a href="#" target="_blank" class="social-network  twitter"></a -->
+								<a href="https://www.facebook.com/ecardim" target="_blank" class="social-network  facebook"></a>
+                            </span>
+                        </div>
+                    </div>	
+                </div>
+				<div class="row">
+					<div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="post">
+							<img alt="altname" src="img/team/santana.jpg">
+                            <span class="subject">GABRIEL ANDRADE SANTANA</span>
+                            </br>
+                            <p class="description">CTO da b-datum</br></br>
+								<strong>PALESTRA: </strong>---
+							</p>
+                            </br></br><br/>
+                            <span class="social">
+                                <a href="http://br.linkedin.com/pub/gabriel-andrade/9/428/114" target="_blank" class="social-network  linkedin"></a>
+								<!-- a href="#" target="_blank" class="social-network  twitter"></a -->
+								<a href="https://www.facebook.com/GabiruAndrade" target="_blank" class="social-network  facebook"></a>
+                            </span>
+                        </div>
+                    </div>	
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="post">
+							<img alt="altname" src="img/team/ruoso.jpg">
+                            <span class="subject">LEONARDO RUOSO</span>
+                            <p class="description">Diretor T&eacute;cnico na Urby e Consultor S&ecirc;nior na Oktiva </br></br>
+								<strong>PALESTRA: </strong>Descobrindo os bairros do Brasil. 
+							</p>
+                            <span class="social">
+								<a href="http://br.linkedin.com/in/lruoso/pt" target="_blank" class="social-network  linkedin"></a>
+								<a href="https://twitter.com/LeonardoRuoso" target="_blank" class="social-network  twitter"></a>
+								<a href="https://www.facebook.com/leonardo.ruoso" target="_blank" class="social-network  facebook"></a>
+                            </span>
+                        </div>
+                    </div>
+					<div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="post">
+							<img alt="altname" src="img/team/cron.jpg">
+                            <span class="subject">RENATO CRON</span>
+                            <p class="description">Arquiteto de Software na b-datum </br></br>
+								<strong>PALESTRA: </strong> Transparência Pública com IOTA
+							</p>
+							</br></br>							
+                            <span class="social">
+								<a href="http://br.linkedin.com/in/renatocron" target="_blank" class="social-network  linkedin"></a>
+								<a href="https://twitter.com/renato_cron" target="_blank" class="social-network  twitter"></a>
+								<a href="https://www.facebook.com/renatocron" target="_blank" class="social-network  facebook"></a>
+                            </span>
+                        </div>
+                    </div>
+					<div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="post">
+							<img alt="Solli Honorio" src="img/team/mosconi.jpg">
+                            <span class="subject">RODRIGO MOSCONI DE GOUVÊA</span>
+                            <p class="description">Developer/SysAdmin na InvestFlex</br></br>
+								<strong>PALESTRA: </strong> Caso no sucesso na criação de um novo produto
+							</p>
+							</br>								
+                            <span class="social">
+                                <a href="https://www.linkedin.com/in/rmosconi" target="_blank" class="social-network  linkedin"></a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+				<div class="row">
+					<div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="post">
+							<img alt="altname" src="img/team/andrade.jpg">
+                            <span class="subject">RONDON DE ANDRADE</span>
+                            <br>
+                            <p class="description">Profissional Independente de TI e Serviços<br><br>
+								<strong>PALESTRA: </strong>Dados abertos, big data e information visualization
+							</p>
+                            <br>
+                            <span class="social">
+                                <a href="https://www.linkedin.com/pub/rondon-de-andrade/5/213/27a" target="_blank" class="social-network  linkedin"></a>
+								<a href="https://www.facebook.com/rondon.andrade.3" target="_blank" class="social-network  facebook"></a>
+                            </span>
+                        </div>
+                    </div>
+					<div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="post">
+							<img alt="Solli Honorio" src="img/team/honorio.jpg">
+                            <span class="subject">SOLLI HONORIO</span>
+                            <p class="description">Desenvolvedor na b-datum</br></br><br/>
+								<strong>PALESTRA: </strong>---
+							</p>
+							</br></br>								
+                            <span class="social">
+                                <a href="http://www.linkedin.com/in/shonorio/pt" target="_blank" class="social-network  linkedin"></a>
+								<a href="https://www.facebook.com/solli.honorio" target="_blank" class="social-network  facebook"></a>
+                            </span>
+                        </div>
+                    </div>
+					<div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="post">
+							<img alt="altname" src="img/team/rondon.jpg">
+                            <span class="subject">THIAGO RONDON</span>
+                            <p class="description">Desenvolvedor de Software, CEO da b-datum e co-fundador da Aware </br></br>
+								<strong>PALESTRA: </strong> Promovendo Accountability
+							</p>
+							</br>	
+                            <span class="social">
+                                <a href="http://br.linkedin.com/in/thiagorondon" target="_blank" class="social-network  linkedin"></a>
+								<a href="https://twitter.com/thiagorondon" target="_blank" class="social-network  twitter"></a>
+								<a href="https://www.facebook.com/thiagorondon" target="_blank" class="social-network  facebook"></a>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="post">
+							<img alt="altname" src="img/team/reis.jpg">
+                            <span class="subject">WALLACE REIS</span>
+                            <br>
+                            <p class="description">Engenheiro de Software na Best Practical Solutions <br><br>
+								<strong>PALESTRA: </strong> Falando sobre Request Tracker (RT)
+							</p>
+                            <br>
+                            <span class="social">
+                                <a href="http://br.linkedin.com/in/wallacereis" target="_blank" class="social-network  linkedin"></a>
+								<a href="https://twitter.com/wreis" target="_blank" class="social-network  twitter"></a>
+								<a href="https://www.facebook.com/reiswallace" target="_blank" class="social-network  facebook"></a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+				<div class="row">
+                    <div class="col-md-offset-3 col-md-6 col-sm-6 col-xs-12 text-center">
+						<a class="btn btn-primary btn-lg" target="_blank" href="https://docs.google.com/forms/d/11XMPQ3e8d9VFhPtHMaCWKCSJROkf8lxPgrqEzHl-3rk/viewform">
+                            Faça parte do time de palestrantes
+                        </a>	
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- END TEAM -->
+		
+        <!-- PLACE SECTION -->
+        <section id="place" class="slice color1">
+            <div class="container">
+                <div class="row">
+                    <div class="centered col-sm-12 col-md-12">
+                         <h2>Local</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="centered col-sm-12 col-md-12">
+                        <p class="subtitle">Confira o local que preparamos para a esta edi&ccedil;&atilde;o do YAPC::Brasil</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6 col-md-6">
+                        <div class="box-carousel">
+                            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+								<div class="carousel-inner">
+									<div class="item active">
+										<img src="img/place/img1.jpg" alt="">
+									</div>
+									<div class="item">
+										<img src="img/place/img2.jpg" alt="">
+									</div>
+									<div class="item">
+										<img src="img/place/img3.jpg" alt="">
+									</div>
+									<div class="item">
+										<img src="img/place/img4.jpg" alt="">
+									</div>
+								</div>
+								<!-- Controls -->
+								  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+									<span class="glyphicon glyphicon-chevron-left"></span>
+								  </a>
+								  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+									<span class="glyphicon glyphicon-chevron-right"></span>
+								  </a>
+							</div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6">
+                        <div class="box">
+                            <h4>Hotel Enseada</h4>
+                            <p>Hotel Enseada Itapema, situado no litoral norte de Santa Catarina, em Itapema, bairro Meia Praia, com localiza&ccedil;&atilde;o privilegiad&iacute;ssima, &uacute;nico hotel de frente para o mar em Meia Praia Itapema. Em frente ao hotel amplo cal&ccedil;ad&atilde;o para pedestres, pista para ciclovia, esportes n&aacute;uticos, etc... Pr&oacute;ximo ao hotel encontra-se Shopping&acute;s, Centros Comerciais, Restaurantes, Bares, Correios, Ag&ecirc;ncias banc&aacute;rias, Farm&aacute;cias, Locadoras e etc...</p>
+                            <h4>Endere&ccedil;o</h4>
+							<address>		
+								<span id="map-input">
+								<p><span class="glyphicon glyphicon-map-marker"></span>&nbsp;&nbsp;Rua 219, n&ordm; 35, Meia Praia, Itapema - SC, Brasil, 88220-000</p>
+								</span>							
+							</address>
+							<h4>Contato para Hospedagem</h4>
+							<address>
+								<p><span class="glyphicon glyphicon-link"></span>&nbsp;&nbsp;<a href="http://www.hotelenseadaitapema.com.br/" target="_blank">www.hotelenseadaItapema.com.br</a></p>
+								<p><span class="glyphicon glyphicon-comment"></span>&nbsp;&nbsp;<a href="mailto:reservasrcp@hotelenseadaitapema.com.br">reservasrcp@hotelenseadaitapema.com.br</a></p>
+								<p><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;+55 (47) 3268-8400</p>
+							</address>
+						</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- END PLACE -->
+		
+		<!-- MAP -->
+		  <div id="map-canvas"></div>	 
+		<!-- END MAP -->
+		
+		<!-- TICKETS SECTION -->
+		<section id="tickets" class="slice color2">
+            <div class="container">
+                <div class="row">
+                    <div class="centered col-sm-12 col-md-12">
+                         <h2>Register</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="centered col-sm-12 col-md-12">
+                        <p class="subtitle">N&atilde;o perca tempo e garanta j&aacute; o seu ingresso </br>para a esse evento incr&iacute;vel</p>
+                    </div>
+                </div>
+				<div class="row-plan row">
+					<!-- PRICETABLE-1 -->
+					<div class="col-plan col-sm-4">
+					  <div  class="wrapper-plan">
+						<h2 class="plan-header">INSCRI&Ccedil;&Atilde;O SIMPLES - GRUPOS/ESTUDANTES</h2>
+						<h3 class="plan-price">R$60</h3>
+						<p  class="plan-features"><span class="glyphicon glyphicon-ok green"></span>&nbsp;&nbsp;Participa&ccedil;&atilde;o no Evento (19 e 20/09)</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-ok green"></span>&nbsp;&nbsp;2 Coffee Breaks por Dia</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-ok green"></span>&nbsp;&nbsp;Acesso Wi-fi &agrave; Internet</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-remove red"></span>&nbsp;&nbsp;* Hospedagem</br>(Check-in: 18/09; Check-out: 21/09)</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-remove red"></span>&nbsp;&nbsp;3 Caf&eacute;s da Manh&atilde; (19, 20 e 21/09)</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-remove red"></span>&nbsp;&nbsp;3 Jantares (18, 19 e 20/09)</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-remove red"></span>&nbsp;&nbsp;2 Almo&ccedil;os (19 e 20/09)</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-remove red"></span>&nbsp;&nbsp;1 Transfer entre Hotel e Almo&ccedil;o-Resort</p>
+						<hr>
+						<p  class="plan-features"><strong>Vagas Dispon&iacute;veis: 46</strong></p>
+						<a  class="plan-sign" href="http://www.eventick.com.br/yapc-brasil-sc-2014" target="_blank">COMPRAR</a>
+					  </div>
+					</div>
+					<!-- PRICETABLE-2 -->
+					<div class="col-plan col-sm-4">
+					  <div  class="wrapper-plan">
+						<h2 class="plan-header">INSCRI&Ccedil;&Atilde;O SIMPLES - PROFISSIONAIS</h2>
+						<h3 class="plan-price">R$120</h3>
+						<p  class="plan-features"><span class="glyphicon glyphicon-ok green"></span>&nbsp;&nbsp;Participa&ccedil;&atilde;o no Evento (19 e 20/09)</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-ok green"></span>&nbsp;&nbsp;2 Coffee Breaks por Dia</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-ok green"></span>&nbsp;&nbsp;Acesso Wi-fi &agrave; Internet</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-remove red"></span>&nbsp;&nbsp;* Hospedagem</br>(Check-in: 18/09; Check-out: 21/09)</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-remove red"></span>&nbsp;&nbsp;3 Caf&eacute;s da Manh&atilde; (19, 20 e 21/09)</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-remove red"></span>&nbsp;&nbsp;3 Jantares (18, 19 e 20/09)</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-remove red"></span>&nbsp;&nbsp;2 Almo&ccedil;os (19 e 20/09)</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-remove red"></span>&nbsp;&nbsp;1 Transfer entre Hotel e Almo&ccedil;o-Resort</p>
+						<hr>
+						<p  class="plan-features"><strong>Vagas Dispon&iacute;veis: 46</strong></p>
+						<a  class="plan-sign" href="http://www.eventick.com.br/yapc-brasil-sc-2014" target="_blank">COMPRAR</a>
+					  </div>
+					</div>
+					<!-- PRICETABLE-3 -->
+					<div class="col-plan col-sm-4">
+					  <div  class="wrapper-plan">
+						<h2 class="plan-header">Inscri&ccedil;&atilde;o Full</h2>
+						<h3 class="plan-price">R$440</h3>
+						<p  class="plan-features"><span class="glyphicon glyphicon-ok green"></span>&nbsp;&nbsp;Participa&ccedil;&atilde;o no Evento (19 e 20/09)</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-ok green"></span>&nbsp;&nbsp;2 Coffee Breaks por Dia</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-ok green"></span>&nbsp;&nbsp;Acesso Wi-fi &agrave; Internet</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-ok green"></span>&nbsp;&nbsp;* Hospedagem</br>(Check-in: 18/09; Check-out: 21/09)</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-ok green"></span>&nbsp;&nbsp;3 Caf&eacute;s da Manh&atilde; (19, 20 e 21/09)</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-ok green"></span>&nbsp;&nbsp;3 Jantares (18, 19 e 20/09)</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-ok green"></span>&nbsp;&nbsp;2 Almo&ccedil;os (19 e 20/09)</p>
+						<hr>
+						<p  class="plan-features"><span class="glyphicon glyphicon-ok green"></span>&nbsp;&nbsp;1 Transfer entre Hotel e Almo&ccedil;o-Resort</p>
+						<hr>
+						<p  class="plan-features"><strong>Vagas Dispon&iacute;veis: 4</strong></p>
+						<a  class="plan-sign" href="http://www.eventick.com.br/yapc-brasil-sc-2014" target="_blank">COMPRAR</a>
+					  </div>
+					</div>
+					<div class="col-sm-12 col-md-12">
+					<!-- p><strong>* Hospedagem no Hotel: </strong>Alertamos para que a reserva no Hotel Enseada seja solicitada at&eacute; o dia 04 de julho de 2014, pois em virtude de Itapema ser uma cidade tur&iacute;stica, n&atilde;o garantimos vagas a partir deste per&iacute;odo. Valor aproximado da di&aacute;ria (apto. single): R$ 139,00. Reservas atrav&eacute;s do site: <a href="http://www.hotelenseadaitapema.com.br/" target="_blank">hotelenseadaItapema.com.br</a></p -->
+					<div>
+				</div>
+            </div>
+        </section>
+		<!-- END TICKETS -->
+		
+		<!-- + INFO SECTION -->
+		<section id="info" class="slice color5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-3 col-md-3">
+                         <h2>+ Info</h2>
+                    </div>
+                    <div class="col-sm-3 col-md-3">
+                        <div class="box">
+							<h4>FLORIAN&Oacute;POLIS - International Airport of Herc&iacute;lio Luz</h4>
+							<p><span class="glyphicon glyphicon-map-marker"></span>&nbsp;&nbsp;Av. Dep. Diom&iacute;cio Freitas, 3393 - Carianos, Florian&oacute;polis - SC, 88047-900</p>
+							<p><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;+55 (48) 3331-4000</p>
+							<p><span class="glyphicon glyphicon-road"></span>&nbsp;&nbsp;Approximate distance of the Hotel in Itapema: 73,7 km (59 min. by car)</p>
+						</div>
+					</div>
+					<div class="col-sm-3 col-md-3">
+                        <div class="box">
+							<h4>NAVEGANTES - International Airport of Navegantes</h4>
+							<p><span class="glyphicon glyphicon-map-marker"></span>&nbsp;&nbsp;Pra&ccedil;a Mal. do Ar Eduardo Gomes s/n&ordm; - Navegantes - SC - CEP:88375-000</p>
+							<p><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;+55 (48) 3331-4000</p>
+							<p><span class="glyphicon glyphicon-road"></span>&nbsp;&nbsp;Approximate distance of the Hotel in Itapema: 50,8 km (48 min. by car)</p>
+						</div>
+					</div>
+					<div class="col-sm-3 col-md-3">
+                        <div class="box">
+							<h4>ITAPEMA-SC</h4>
+							<p>Itapema &eacute; o munic&iacute;pio que mais cresceu nos &uacute;ltimos anos em Santa Catarina com lindas praias e cachoeiras, &oacute;timas op&ccedil;&otilde;es de compras, lazer, muita natureza e divers&atilde;o. Saiba mais em: </p>
+							<p><span class="glyphicon glyphicon-link"></span>&nbsp;&nbsp;<a href="http://www.itapema.sc.gov.br/" target="_blank">www.itapema.sc.gov.br</a></p>
+							<p><span class="glyphicon glyphicon-link"></span>&nbsp;&nbsp;<a href="http://www.litoraldesantacatarina.com/itapema/" target="_blank">www.litoraldesantacatarina.com</a></p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-3 col-md-3">
+						<div class="box">
+							<h4>The Venue</h4>
+							<a href="img/info/place1.jpg" class="fancybox-media" data-title-id="title-01"  rel="group1">
+							<a href="img/info/place2.jpg" class="fancybox-media" data-title-id="title-02"  rel="group1">
+							<a href="img/info/place3.jpg" class="fancybox-media" data-title-id="title-03"  rel="group1">
+								<div id="myCarousel" class="carousel slide" data-ride="carousel">
+									<div class="carousel-inner">
+										<div class="item active">
+											<img src="img/info/place1.jpg" alt="">
+										</div>
+										<div class="item">
+											<img src="img/info/place2.jpg" alt="">
+										</div>
+										<div class="item">
+											<img src="img/info/place3.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</a></a></a>
+							<div id="title-01" class="info hidden">								
+								<h2>The Venue</h2>
+								<div class="fancybody">
+									<p>Hotel Enseada - Vista Externa</p>
+								</div>
+							</div>
+							<div id="title-02" class="info hidden">								
+								<h2>The Venue</h2>
+								<div class="fancybody">
+									<p>Hotel Enseada - Vista Externa</p>
+								</div>
+							</div>
+							<div id="title-03" class="info hidden">								
+								<h2>Mapa</h2>
+								<div class="fancybody">
+									<p>Hotel Enseada</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3 col-md-3">
+						<div class="box">
+							<h4>Lunch (09/19 and 20)</h4>
+							<a href="img/info/lunch1.jpg" class="fancybox-media" data-title-id="title-11"  rel="group2">
+							<a href="img/info/lunch2.jpg" class="fancybox-media" data-title-id="title-12"  rel="group2">
+							<a href="img/info/lunch3.jpg" class="fancybox-media" data-title-id="title-13"  rel="group2">
+							<a href="img/info/lunch4.jpg" class="fancybox-media" data-title-id="title-14"  rel="group2">
+							<a href="img/info/lunch5.jpg" class="fancybox-media" data-title-id="title-15"  rel="group2">
+								<div id="myCarousel" class="carousel slide" data-ride="carousel">
+									<div class="carousel-inner">
+										<div class="item active">
+											<img src="img/info/lunch1.jpg" alt="">
+										</div>
+										<div class="item">
+											<img src="img/info/lunch2.jpg" alt="">
+										</div>
+										<div class="item">
+											<img src="img/info/lunch3.jpg" alt="">
+										</div>
+										<div class="item">
+											<img src="img/info/lunch4.jpg" alt="">
+										</div>
+										<div class="item">
+											<img src="img/info/lunch5.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</a></a></a></a></a>
+							<div id="title-11" class="info hidden">								
+								<h2>Sexta-Feira - Almo&ccedil;o</h2>
+								<div class="fancybody">
+									<p>Hotel Enseada</p>
+								</div>
+							</div>
+							<div id="title-12" class="info hidden">								
+								<h2>S&aacute;bado - Almo&ccedil;o</h2>
+								<div class="fancybody">
+									<p>Cabral da Ilha (com transfer)</p>
+								</div>
+							</div>
+							<div id="title-13" class="info hidden">								
+								<h2>S&aacute;bado - Almo&ccedil;o</h2>
+								<div class="fancybody">
+									<p>Cabral da Ilha (com transfer)</p>
+								</div>
+							</div>
+							<div id="title-14" class="info hidden">								
+								<h2>S&aacute;bado - Almo&ccedil;o</h2>
+								<div class="fancybody">
+									<p>Cabral da Ilha (com transfer)</p>
+								</div>
+							</div>
+							<div id="title-15" class="info hidden">								
+								<h2>S&aacute;bado - Almo&ccedil;o</h2>
+								<div class="fancybody">
+									<p>Cabral da Ilha (com transfer)</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3 col-md-3">
+						<div class="box">
+							<h4>Dinner (09/18, 19 and 20)</h4>
+							<a href="img/info/dinner1.jpg" class="fancybox-media" data-title-id="title-21"  rel="group3">
+							<a href="img/info/dinner2.jpg" class="fancybox-media" data-title-id="title-22"  rel="group3">
+								<div id="myCarousel" class="carousel slide" data-ride="carousel">
+									<div class="carousel-inner">
+										<div class="item active">
+											<img src="img/info/dinner1.jpg" alt="">
+										</div>
+										<div class="item">
+											<img src="img/info/dinner2.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</a></a>
+							<div id="title-21" class="info hidden">								
+								<h2>Quinta-Feira - Jantar</h2>
+								<div class="fancybody">
+									<p>Pizza a la carte no Hotel Enseada (4 sabores)</p>
+								</div>
+							</div>
+							<div id="title-22" class="info hidden">								
+								<h2>Sexta/S&aacute;bado - Jantar Happy Hour</h2>
+								<div class="fancybody">
+									<p>Bar Kabaak: O Mais Frequentado da Cidade</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3 col-md-3">
+						<div class="box">
+							<h4>The City</h4>
+							<a href="img/info/city1.jpg" class="fancybox-media" data-title-id="title-31"  rel="group4">
+							<a href="img/info/city2.jpg" class="fancybox-media" data-title-id="title-32"  rel="group4">
+							<a href="img/info/city3.jpg" class="fancybox-media" data-title-id="title-33"  rel="group4">
+							<a href="img/info/city4.jpg" class="fancybox-media" data-title-id="title-34"  rel="group4">
+							<a href="img/info/city5.jpg" class="fancybox-media" data-title-id="title-35"  rel="group4">
+								<div id="myCarousel" class="carousel slide" data-ride="carousel">
+									<div class="carousel-inner">
+										<div class="item active">
+											<img src="img/info/city1.jpg" alt="">
+										</div>
+										<div class="item">
+											<img src="img/info/city2.jpg" alt="">
+										</div>
+										<div class="item">
+											<img src="img/info/city3.jpg" alt="">
+										</div>
+										<div class="item">
+											<img src="img/info/city4.jpg" alt="">
+										</div>
+										<div class="item">
+											<img src="img/info/city5.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</a></a></a></a></a>
+							<div id="title-31" class="info hidden">								
+								<h2>Bairro Meia Praia</h2>
+								<div class="fancybody">
+									<p>Quarter of Event local</p>
+								</div>
+							</div>
+							<div id="title-32" class="info hidden">								
+								<h2>Meia Praia</h2>
+								<div class="fancybody">
+									<p>1&ordm; de Janeiro de 2014</p>
+								</div>
+							</div>
+							<div id="title-33" class="info hidden">								
+								<h2>Cal&ccedil;ad&atilde;o &agrave; beira mar</h2>
+								<div class="fancybody">
+									<p>Image of in front of Hotel Enseada view- Event local</p>
+								</div>
+							</div>
+							<div id="title-34" class="info hidden">								
+								<h2>Vista Edif&iacute;cio Vila dos Corais</h2>
+								<div class="fancybody">
+									<p>Bairro Centro</p>
+								</div>
+							</div>
+							<div id="title-35" class="info hidden">								
+								<h2>Mirante</h2>
+								<div class="fancybody">
+									<p>Acesso Free</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- END + INFO -->
+		
+		<!-- SPONSORS SECTION -->
+        <section id="sponsors" class="slice color1">
+            <div class="container">
+                <div class="row">
+                    <div class="centered col-sm-12 col-md-12">
+                         <h2>sponsors</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="centered col-sm-12 col-md-12">
+                        <p class="subtitle">become a sponsor who makes the event organization possible. contact us for more information</p>
+                    </div>
+                </div>
+				<div class="row">
+					<!-- div class="col-md-4 col-sm-4 col-xs-12"><div class="sponsor-box"><img src="img/sponsors/sponsor-gold.jpg" title="Patrocinador Ouro" width="100%" height="100%"></div></div>
+					<div class="col-md-4 col-sm-4 col-xs-12"><div class="sponsor-box"><img src="img/sponsors/sponsor-gold.jpg" title="Patrocinador Ouro" width="100%" height="100%"></div></div>
+					<div class="col-md-4 col-sm-4 col-xs-12"><div class="sponsor-box"><img src="img/sponsors/sponsor-gold.jpg" title="Patrocinador Ouro" width="100%" height="100%"></div></div -->
+                </div>
+				<div class="row">
+					<div class="col-md-offset-3 col-md-3 col-sm-3 col-xs-6"><div class="sponsor-box"><a href="http://aware.com.br" target="_blank"><img src="img/sponsors/aware-negative.jpg" title="Aware - Patrocinador Prata" width="100%" height="100%"></a></div></div>
+					<div class="col-md-3 col-sm-3 col-xs-6"><div class="sponsor-box"><a href="http://www.leismunicipais.com.br" target="_blank"><img src="img/sponsors/leismunicipais.jpg" title="Leis Municipais - Patrocinador Prata" width="100%" height="100%"></a></div></div>
+					<!-- div class="col-md-3 col-sm-3 col-xs-6"><div class="sponsor-box"><img src="img/sponsors/sponsor-silver.jpg" title="Patrocinador Prata" width="100%" height="100%"></div></div>
+					<div class="col-md-3 col-sm-3 col-xs-6"><div class="sponsor-box"><img src="img/sponsors/sponsor-silver.jpg" title="Patrocinador Prata" width="100%" height="100%"></div></div-->
+                </div>
+				<div class="row">
+					<div class="col-md-offset-5 col-md-2 col-sm-2 col-xs-4"><div class="sponsor-box"><a href="http://bivee.com.br" target="_blank"><img src="img/sponsors/bivee.jpg" title="Bivee - Patrocinador Bronze" width="100%" height="100%"></a></div></div>
+					<!-- div class="col-md-2 col-sm-2 col-xs-4"><div class="sponsor-box"><img src="img/sponsors/sponsor-bronze.jpg" title="Patrocinador Bronze" width="100%" height="100%"></div></div>
+					<div class="col-md-2 col-sm-2 col-xs-4"><div class="sponsor-box"><img src="img/sponsors/sponsor-bronze.jpg" title="Patrocinador Bronze" width="100%" height="100%"></div></div>
+					<div class="col-md-2 col-sm-2 col-xs-4"><div class="sponsor-box"><img src="img/sponsors/sponsor-bronze.jpg" title="Patrocinador Bronze" width="100%" height="100%"></div></div>
+					<div class="col-md-2 col-sm-2 col-xs-4"><div class="sponsor-box"><img src="img/sponsors/sponsor-bronze.jpg" title="Patrocinador Bronze" width="100%" height="100%"></div></div>
+					<div class="col-md-2 col-sm-2 col-xs-4"><div class="sponsor-box"><img src="img/sponsors/sponsor-bronze.jpg" title="Patrocinador Bronze" width="100%" height="100%"></div></div -->												
+				</div>
+            </div>
+        </section>
+        <!-- END SPONSORS -->	
+		
+        <!-- CONTACT SECTION -->
+        <section id="contact" class="dark-bg">
+            <div class="container">
+                <div class="row">
+                    <div class="centered col-sm-12 col-md-12">
+                         <h2 class="content-darkbg">CONTACT</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="centered col-sm-12 col-md-12">
+                        <p class="subtitle">for more information about the conference, </br>send an email to the board team</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 col-md-12 centered">
+                        <h2 class="email content-darkbg">cicero@yapcbrasil.org.br</h2>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- END CONTACT -->
+		
+		<!-- INTERACTION SECTION -->
+		<!-- 
+		<section id="interaction" class="slice color1">
+            <div class="container">
+                <div class="row">
+                    <div class="centered col-sm-12 col-md-12">
+                         <h2>INTERA&Ccedil;&Atilde;O</h2>
+                    </div>
+                </div>
+				<div class="row">
+                    <div class="centered col-sm-12 col-md-12">
+                        <p class="subtitle">Participe! Quer sugerir algo? </br>Gostou da equipe de palestrantes? E do local do evento?</p>
+                    </div>
+                </div>
+				<div class="box centered">
+					<h4>Sinta-se &agrave; vontade para interagir com os participantes e palestrantes do evento.</h4>
+				</div>			
+			</div>
+		</section>
+		<!-- END INTERACTION -->
+		
+		<!-- FOOTER  -->
+        <div id="footer">
+
+		<!-- SOCIAL MODULE  --> 
+		<section id="social_module" class="slice">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12 col-md-12">
+						<ul>
+							<li><a href="https://www.facebook.com/YapcBrasil" target=_blank><i class="icon icon-facebook"></i></a></li>
+							<li><a href="https://twitter.com/yapcbrasil" target=_blank><i class="icon icon-twitter"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		<!-- END SOCIAL MODULE  -->
+
+			<!-- COPYRIGHT  -->
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12 col-md-12">
+						<p class="bottom-links text-center center">
+						<a href="#home">HOME</a> | <a href="#about">EVENT</a> | <a href="#theme">THEME</a> | <a href="#team">TEAM</a> | <a href="#place">VENUE</a> | <a href="#tickets">REGISTER</a> </br> <a href="#info">+ INFO</a> | <a href="#sponsors">SPONSORS</a> | <a href="#contact">CONTACT</a> <!--| <a href="#interaction">INTERA&Ccedil;&Atilde;O</a>-->
+						</p>
+						<p class="copyright text-center center">&copy; 2014 YAPC::Brazil. All rights reserved.</p>
+						<p class="copyright text-center center">Make with <span class="glyphicon glyphicon-heart red"></span> by <a href="http://www.bivee.com.br"><img src="img/contact/logo_footer.png" style="width: 75px; padding-bottom: 5px"></a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+        <!-- END FOOTER  --> 
+    </section>        
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33574165-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
